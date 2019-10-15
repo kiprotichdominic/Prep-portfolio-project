@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+nav > .navbar {
+  display: flex;
+}
+.navbar > li {
+  list-style-type: none;
+}
+.navbar > li > a {
+  text-decoration: none;
+  padding: 10px;
+  text-transform: uppercase;
+}
+.container1 > img {
+  border-radius: 50%;
+}
