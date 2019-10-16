@@ -3,8 +3,12 @@
   padding: 0;
   box-sizing: border-box;
 }
+/* navigation  bar styling */
 nav > .navbar {
   display: flex;
+  justify-content: center;
+  padding: 10px;
+  background-color: 
 }
 .navbar > li {
   list-style-type: none;
