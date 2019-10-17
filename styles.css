@@ -94,3 +94,13 @@ p {
 	padding-right: 40px;
 	height: 400px;
 }
+/* styling my footer */
+.footer {
+	height: 20vh;
+	background-color: black;
+}
+.footer p {
+	color: white;
+	font-size: 40px;
+	padding: 10px;
+}
