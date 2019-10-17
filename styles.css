@@ -26,6 +26,7 @@ nav > .navbar {
 }
 .mycontainer {
 	background: url(https://bit.ly/2qdVZ1E);
+	background-size: cover;
 }
 .container1 {
 	display: flex;
@@ -53,4 +54,11 @@ nav > .navbar {
 .container1 span {
 	color: black;
 	font-weight: bold;
+}
+/* about me styling */
+#aboutme {
+	height: 30vh;
+}
+#aboutme ,h3 ,p {
+	text-align: center;
 }
