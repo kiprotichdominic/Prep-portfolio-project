@@ -24,24 +24,25 @@ nav > .navbar {
 	border-right: 2px solid black;
 	border-left: 2px solid black;
 }
-/* styling the images */
 .container1 {
 	display: flex;
 	justify-content: center;
 	padding: 25vh;
 	height: 90vh;
-	transition: 2s;
+	transition: 3s;
 }
 .container1 > img {
-	border-radius: 30%;
+	border-radius: 40%;
 	height: 400px;
 	width: 400px;
-	box-shadow: 5px 5px 5px 5px grey;
+	box-shadow: 0 4px 8px 5px rgba(9, 2, 2, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
-.container1 > img:hover {
-	transform: rotate(360deg);
+.container1 img:hover {
+  transition: 2s;
+  transition-timing-function: cubic-bezier(0.075, 0.82, 0.165, 1);
 }
 .container1 > p {
-	font-size: 20px;
+	font-size: 25px;
 	padding: 50px;
+	margin-top: 70px;
 }
