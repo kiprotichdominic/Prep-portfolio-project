@@ -72,3 +72,15 @@ h3,
 p {
 	text-align: center;
 }
+/* styling my images on the prjects section */
+.project {
+	display: flex;
+}
+.moringa > img {
+	width: 500px;
+	height: 400px;
+}
+.photography > img {
+	width: 500px;
+	height: 400px;
+}
