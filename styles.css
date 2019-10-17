@@ -59,6 +59,16 @@ nav > .navbar {
 #aboutme {
 	height: 30vh;
 }
-#aboutme ,h3 ,p {
+#aboutme h3 {
+	padding-top: 13vh;
+	font-size: 40px;
+}
+#aboutme p {
+	padding-top: 10px;
+	font-size: 20px;
+}
+#aboutme,
+h3,
+p {
 	text-align: center;
 }
