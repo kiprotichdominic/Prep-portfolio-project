@@ -29,3 +29,4 @@ Are there issues that have not yet been resolved that you want to let users know
 - kiprotichkorir36@gmail.com
 - Facebook https://www.facebook.com/iamdommie/
 
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
