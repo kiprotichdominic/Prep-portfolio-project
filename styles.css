@@ -46,7 +46,7 @@ nav > .navbar {
 	transition-timing-function: cubic-bezier(0.075, 0.82, 0.165, 1);
 }
 .container1 > p {
-	font-size: 25px;
+	font-size: 50px;
 	padding: 50px;
 	margin-top: 70px;
 	color: white;
@@ -85,10 +85,16 @@ p {
 	display: flex;
 	justify-content: center;
 }
+.moringa {
+	border: 2px solid;
+}
 .moringa > img {
 	width: 600px;
 	padding-right: 40px;
 	height: 400px;
+}
+.photography {
+	border: 2px solid;
 }
 .photography > img {
 	width: 600px;
@@ -99,6 +105,7 @@ p {
 .footer {
 	height: 20vh;
 	background-color: black;
+	padding-top: 40px;
 }
 .footer p {
 	color: white;
@@ -112,3 +119,16 @@ p {
 	font-size: 22px;
 	font-weight: bold;
 }
+#copyright a {
+	text-decoration: none;
+	color: chocolate;
+}
+/* media queries for responsiveness */
+/* @media screen and (max-width: 1134px) {
+	.project {
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		width: auto;
+	}
+} */
