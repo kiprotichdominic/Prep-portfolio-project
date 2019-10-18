@@ -124,12 +124,21 @@ p {
 .mybutton {
 	margin: 10px 10px 10px 250px;
 	border: unset;
-	background-color: aqua;
 }
 .mybutton > a {
 	text-decoration: none;
 	font-size: 20px;
 	color: black;
+	font-size: 30px;
+	font-weight: 800;
+	color: blue;
+	background-color: white;
+	padding: 6px;
+}
+.mybutton>a:hover{
+	background-color: rgb(13, 17, 211);
+	color: white;
+	box-shadow: 5px 5px 5px grey;
 }
 /* styling my footer */
 .footer {
