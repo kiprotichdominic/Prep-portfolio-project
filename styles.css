@@ -78,7 +78,22 @@ p {
 	text-align: center;
 }
 /* styling for my skills section */
+.skillscontainer {
+	width: 100%;
+	background-color: #ddd;
+	margin: 10px 10px 10px 10px;
+}
 
+.myskills {
+	text-align: right;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	color: white;
+}
+.html {
+	width: 90%;
+	background-color: #4caf50;
+}
 
 /* styling my images on the projects section */
 #myprojects {
@@ -124,7 +139,7 @@ p {
 	text-align: center;
 }
 .mybutton {
-	margin: 10px 10px 10px 250px;
+	margin: 10px 10px 10px 200px;
 	border: unset;
 }
 .mybutton > a {
@@ -137,7 +152,7 @@ p {
 	background-color: white;
 	padding: 6px;
 }
-.mybutton>a:hover{
+.mybutton > a:hover {
 	background-color: rgb(13, 17, 211);
 	color: white;
 	box-shadow: 5px 5px 5px grey;
