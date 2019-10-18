@@ -80,11 +80,11 @@ p {
 /* styling for my skills section */
 .skillhub {
 	margin: 10px 10px 10px 200px;
-	width: 0 auto;
-}
-.skillscontainer {
 	width: 80%;
 	background-color: lightgrey;
+}
+.skillscontainer {
+	padding: 20px;
 }
 
 .myskills {
@@ -95,11 +95,19 @@ p {
 }
 .html {
 	width: 90%;
-	background-color: #4caf50;
+	background-color: #205cdd;
 }
 .css {
-	width: 78%;
-	background-color: red;
+	width: 80%;
+	background-color: #205cdd;
+}
+.javascript {
+	width: 30%;
+	background-color: #205cdd;
+}
+.git {
+	width: 70%;
+	background-color: #205cdd;
 }
 /* styling my images on the projects section */
 #myprojects {
