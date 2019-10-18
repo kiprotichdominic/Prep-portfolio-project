@@ -77,8 +77,10 @@ h3,
 p {
 	text-align: center;
 }
+/* styling for my skills section */
 
-/* styling my images on the prjects section */
+
+/* styling my images on the projects section */
 #myprojects {
 	background-color: lightgrey;
 	width: 100%;
