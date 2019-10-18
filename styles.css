@@ -86,20 +86,33 @@ p {
 	justify-content: center;
 }
 .moringa {
-	border: 2px solid;
+	border: 1px solid;
+	margin-right: 10px;
+	width: 560px;
 }
 .moringa > img {
 	width: 600px;
 	padding-right: 40px;
-	height: 400px;
+}
+.moringa>img:hover {
+	box-shadow: teal;
+}
+.moringa p {
+	font-size: 18px;
+	text-align: center;
 }
 .photography {
-	border: 2px solid;
+	border: 1px solid;
+	margin-left: 10px;
+	width: 560px;
 }
 .photography > img {
 	width: 600px;
 	padding-right: 40px;
-	height: 400px;
+}
+.photography p {
+	font-size: 18px;
+	text-align: center;
 }
 /* styling my footer */
 .footer {
