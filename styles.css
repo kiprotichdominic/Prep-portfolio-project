@@ -46,12 +46,8 @@ nav > .navbar {
 	width: 400px;
 	box-shadow: 0 4px 8px 5px rgba(9, 2, 2, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
-.container1 img:hover {
-	transition: 2s;
-	transition-timing-function: cubic-bezier(0.075, 0.82, 0.165, 1);
-}
 .container1 > p {
-	font-size: 50px;
+	font-size: 70px;
 	padding: 50px;
 	margin-top: 70px;
 	color: white;
@@ -64,8 +60,11 @@ nav > .navbar {
 #aboutme {
 	height: 30vh;
 }
+#aboutme h2 {
+	font-size: 40px;
+}
 #aboutme h3 {
-	padding-top: 13vh;
+	padding-top: 13px;
 	font-size: 40px;
 }
 #aboutme p {
