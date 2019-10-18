@@ -88,11 +88,13 @@ p {
 	width: 600px;
 	padding-right: 40px;
 	height: 400px;
+	padding-bottom: 30px;
 }
 .photography > img {
 	width: 600px;
 	padding-right: 40px;
 	height: 400px;
+	padding-bottom: 30px;
 }
 /* styling my footer */
 .footer {
