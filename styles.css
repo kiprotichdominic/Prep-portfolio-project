@@ -43,8 +43,7 @@ nav > .navbar {
 }
 .container1 > img {
 	border-radius: 40%;
-	height: 400px;
-	width: 400px;
+	width: 350px;
 	box-shadow: 0 4px 8px 5px rgba(9, 2, 2, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 .container1 > p {
@@ -71,7 +70,7 @@ nav > .navbar {
 }
 #aboutme p {
 	padding-top: 10px;
-	font-size: 20px;
+	font-size: 30px;
 }
 #aboutme,
 h3,
@@ -200,8 +199,19 @@ p {
 	color: chocolate;
 }
 /* media queries */
-@media only and screen (max-width: 1226px) {
+@media only screen and (max-width: 1226px) {
 	.container1 > p {
 		font-size: 30px;
+	}
+}
+@media only screen and (max-width: 1226px){
+	body{
+		width: 100%;
+	}
+}
+@media only screen and (max-width: 1226px){
+	.project{
+		display: flex;
+		flex-direction: column;
 	}
 }
