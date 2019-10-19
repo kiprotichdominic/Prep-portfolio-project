@@ -18,8 +18,7 @@ This is my portfolio website. It contains details about me, projects i have done
 
 ## Known Bugs
 
-Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place.
-
+My portfolio is not quite responsive, but i am working on making it work better.
 ## Technologies Used
 
 - HTML5
