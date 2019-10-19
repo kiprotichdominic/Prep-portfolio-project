@@ -22,6 +22,7 @@ nav > .navbar {
 	text-decoration: none;
 	color: black;
 	padding: 20px;
+	font-size: 30px;
 	text-transform: uppercase;
 }
 .navbar > li > a:hover {
@@ -81,6 +82,11 @@ p {
 	margin: 10px 10px 10px 200px;
 	width: 80%;
 	background-color: lightgrey;
+}
+#skills h2 {
+	text-align: center;
+	font-size: 40px;
+	padding: 20px;
 }
 .skillscontainer {
 	padding: 20px;
