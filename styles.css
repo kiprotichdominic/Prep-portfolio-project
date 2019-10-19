@@ -11,7 +11,7 @@ nav > .navbar {
 	display: flex;
 	justify-content: center;
 	padding: 20px;
-	background-color: blanchedalmond;
+	background-color: white;
 	position: fixed;
 	width: 100%;
 }
@@ -199,12 +199,9 @@ p {
 	text-decoration: none;
 	color: chocolate;
 }
-/* media queries for responsiveness */
-/* @media screen and (max-width: 1134px) {
-	.project {
-		display: flex;
-		flex-direction: column;
-		justify-content: center;
-		width: auto;
+/* media queries */
+@media only and screen (max-width: 1226px) {
+	.container1 > p {
+		font-size: 30px;
 	}
-} */
+}
